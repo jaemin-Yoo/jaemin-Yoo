@@ -6,3 +6,11 @@ My major is 'Information and Communication Engineering'.
 I have project experience using Python(My most confident language), Java & Android.  
 I am very interested in dealing with Application and Server.  
 My goal is to create a commercial application by myself.  
+
+
+### 🕙 Career
+|제목|내용|설명|
+|---|---|---|
+|테스트1|*강조1*|테스트3|
+|테스트1|**강조2**|테스트3|
+|테스트1|<span style="color:red">강조3</span>|테스트3|
