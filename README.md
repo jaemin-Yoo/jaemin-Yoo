@@ -9,12 +9,14 @@ My goal is to create a commercial application by myself.
 
 
 ### 👑 Career
-|제목|내용|설명|
-|---|---|---|
-|테스트1|*강조1*|테스트3|
-|테스트1|**강조2**|테스트3|
-|테스트1|<span style="color:red">강조3</span>|테스트3|
-
+|Host|Date|Contest|Project|
+|---|---|---|---|
+|산업통상자원부|2020.12 ~ 2020.12|임베디드 소프트웨어 경진대회|스쿨존 CCTV를 활용한 스마트 내비게이션|
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
 
 ### 🛠 Tech Stack
 
