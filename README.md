@@ -17,36 +17,27 @@ My goal is to create a commercial application by myself.
 
 
 ### 🐴 Languages
-python, java & android
-c, c++, php, html, css, js, kotlin, R
+언어 : python, java, c, c++, php, html, css, js, kotlin, R
+IDE : android studio, visual code, idle, pycharm, visual studio, eclipse, matlab
+서버 : aws ec2, aws rds, apache
+서버 TOOL : jupyter notebook, colab, postman, putty, filezilla
+DB : sqlite, mysql, mariadb
+DB TOOL : workbench, dbeaver, heidi
 
-aws ec2, aws rds, visual code, idle, pycharm, jupyter notebook, colab,
-android studio, workbench, dbeaver, heidi, visual studio, eclipse, postman, matlab
-sqlite, mysql, mariadb,
-apache, putty, filezilla, 
+### 🛠 Tech Stack
 
-<h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
-</br>
-<p align="center">
-<img src="https://img.shields.io/badge/Java & Android-000000?style=flat-square&logo=Android"/></a> &nbsp
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp 
-<img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> &nbsp 
-<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS"/></a> &nbsp 
-<img src="https://img.shields.io/badge/-Python-000000?style=flat-square&logo=Python"/></a> &nbsp
-<img src="https://img.shields.io/badge/-PHP-000000?style=flat-square&logo=PHP"/></a> &nbsp
-<img src="https://img.shields.io/badge/-HTML5-000000?style=flat-square&logo=HTML5"/></a> &nbsp
-<img src="https://img.shields.io/badge/-CSS3-000000?style=flat-square&logo=CSS3"/></a> &nbsp
-<img src="https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=JavaScript"/></a> &nbsp
-<img src="https://img.shields.io/badge/-Kotiln-000000?style=flat-square&logo=Kotiln"/></a> &nbsp
-<img src="https://img.shields.io/badge/-R-000000?style=flat-square&logo=R"/></a> &nbsp
-<img src="https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=PyCharm"/></a> &nbsp
-<img src="https://img.shields.io/badge/-Jupyter Notebook-000000?style=flat-square&logo=Jupyter"/></a> &nbsp
-<img src="https://img.shields.io/badge/-Colab-000000?style=flat-square&logo=Google Colab"/></a> &nbsp
-<img src="https://img.shields.io/badge/-Visual Studio-000000?style=flat-square&logo=Visual Studio Code"/></a> &nbsp
-<img src="https://img.shields.io/badge/-Eclipse-000000?style=flat-square&logo=Eclipse IDE"/></a> &nbsp
-<img src="https://img.shields.io/badge/-Postman-000000?style=flat-square&logo=Postman"/></a> &nbsp
-<img src="https://img.shields.io/badge/-SQLite-000000?style=flat-square&logo=SQLite"/></a> &nbsp
-<img src="https://img.shields.io/badge/-MariaDB-000000?style=flat-square&logo=MariaDB"/></a> &nbsp
-<img src="https://img.shields.io/badge/-Apache-000000?style=flat-square&logo=Apache"/></a> &nbsp
-<img src="https://img.shields.io/badge/-FileZilla-000000?style=flat-square&logo=FileZilla"/></a> &nbsp
-</p>
+#### Languages
+- Best  
+<img src="https://img.shields.io/badge/-Python-000000?style=flat-square&logo=Python"/> <img src="https://img.shields.io/badge/Java & Android-000000?style=flat-square&logo=Android"/>  
+- Experienced  
+<img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/-PHP-000000?style=flat-square&logo=PHP"/> <img src="https://img.shields.io/badge/-HTML5-000000?style=flat-square&logo=HTML5"/> <img src="https://img.shields.io/badge/-CSS3-000000?style=flat-square&logo=CSS3"/> <img src="https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=JavaScript"/> <img src="https://img.shields.io/badge/-Kotiln-000000?style=flat-square&logo=Kotiln"/> <img src="https://img.shields.io/badge/-R-000000?style=flat-square&logo=R"/>
+
+#### Server
+<img src="https://img.shields.io/badge/AWS EC2-232F3E?style=flat-square&logo=Amazon%20AWS"/> <img src="https://img.shields.io/badge/AWS RDS-232F3E?style=flat-square&logo=Amazon%20AWS"/> <img src="https://img.shields.io/badge/-Apache-000000?style=flat-square&logo=Apache"/>
+
+#### Database
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/-SQLite-000000?style=flat-square&logo=SQLite"/> <img src="https://img.shields.io/badge/-MariaDB-000000?style=flat-square&logo=MariaDB"/>
+
+
+#### Tools
+<img src="https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=PyCharm"/> <img src="https://img.shields.io/badge/-Jupyter Notebook-000000?style=flat-square&logo=Jupyter"/> <img src="https://img.shields.io/badge/-Colab-000000?style=flat-square&logo=Google Colab"/> <img src="https://img.shields.io/badge/-Visual Studio-000000?style=flat-square&logo=Visual Studio Code"/> <img src="https://img.shields.io/badge/-Eclipse-000000?style=flat-square&logo=Eclipse IDE"/> <img src="https://img.shields.io/badge/-Postman-000000?style=flat-square&logo=Postman"/> <img src="https://img.shields.io/badge/-FileZilla-000000?style=flat-square&logo=FileZilla"/> <img src="https://img.shields.io/badge/Workbench-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/-DBeaver-000000?style=flat-square&logo=FileZilla"/> <img src="https://img.shields.io/badge/-HeidiSQL-000000?style=flat-square&logo=FileZilla"/> <img src="https://img.shields.io/badge/-phpMyAdmin-000000?style=flat-square&logo=phpMyAdmin"/> <img src="https://img.shields.io/badge/-XAMPP-000000?style=flat-square&logo=XAMPP"/>
