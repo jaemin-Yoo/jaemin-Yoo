@@ -11,11 +11,11 @@ My goal is to create a commercial application by myself.
 ### 👑 Career
 |Host|Date|Contest|Project|
 |:---:|:---:|:---:|:---:|
-|과학기술정보통신부|2020.05 ~ 2020.11|NET챌린지 캠프 시즌7|스쿨존 CCTV를 활용한</br>스마트 내비게이션|
-|영남대학교|2019.11 ~ 2020.01|2020 영남대학교 IOT경진대회|1인 가구용 주거 침입 알림 시스템|
 |과학기술정보통신부|2019.11 ~ 2019.11|2019년도 공개SW 미니 해커톤|청각장애인을 위한 운전시스템|
-|산업통상자원부|2020.05 ~ 2020.12|제 18회 임베디드 소프트웨어 경진대회|사회적 약자를 위한</br>지하철 좌석 예약 애플리케이션|
+|영남대학교|2019.11 ~ 2020.01|2020 영남대학교 IOT경진대회|1인 가구용 주거 침입 알림 시스템|
 |과학기술정보통신부|2020.05 ~ 2020.11|이브와 ICT멘토링|긴급 자동차 위치 알림 서비스|
+|과학기술정보통신부|2020.05 ~ 2020.11|NET챌린지 캠프 시즌7|스쿨존 CCTV를 활용한</br>스마트 내비게이션|
+|산업통상자원부|2020.05 ~ 2020.12|제 18회 임베디드 소프트웨어 경진대회|사회적 약자를 위한</br>지하철 좌석 예약 애플리케이션|
 |-|2020.09 ~ 진행&nbsp;중|개인 프로젝트|나만의 단어장|
 |영남대학교|2020.09 ~ 2021.06|졸업 작품|코로나 확진자 동선 알림 앱|
 
@@ -37,6 +37,7 @@ My goal is to create a commercial application by myself.
 #### Tools
 <img src="https://img.shields.io/badge/-Jupyter Notebook-F37626?style=flat&logo=Jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/-Colab-F9AB00?style=flat&logo=Google Colab&logoColor=white"/> <img src="https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=PyCharm&logoColor=white"/> <img src="https://img.shields.io/badge/-Visual Studio-5C2D91?style=flat&logo=Visual Studio&logoColor=white"/> <img src="https://img.shields.io/badge/-Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/-Eclipse-2C2255?style=flat&logo=Eclipse IDE&logoColor=white"/>  
 <img src="https://img.shields.io/badge/-FileZilla-BF0000?style=flat&logo=FileZilla&logoColor=white"/> <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=Postman&logoColor=white"/> <img src="https://img.shields.io/badge/-Putty-000000?style=flat"/> <img src="https://img.shields.io/badge/Workbench-4479A1?style=flat&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/-phpMyAdmin-6C78AF?style=flat&logo=phpMyAdmin&logoColor=white"/> <img src="https://img.shields.io/badge/-DBeaver-000000?style=flat"/> <img src="https://img.shields.io/badge/-HeidiSQL-000000?style=flat"/> <img src="https://img.shields.io/badge/-XAMPP-FB7A24?style=flat&logo=XAMPP&logoColor=white"/>
+
 
 ### 📈 Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaemin-Yoo&show_icons=true&theme=radical)
