@@ -9,7 +9,7 @@ Recently, I am interested in the Kotlin language and I am studying it.
 My goal is to create a commercial application by myself.  
 
 
-### 👑 Career
+### 👑 Activity
 |Host|Date|Contest|Project|
 |:---:|:---:|:---:|:---:|
 |공개SW개발자센터|2019.11 ~ 2019.11|2019년도 공개SW 미니 해커톤|청각장애인을 위한 운전시스템|
