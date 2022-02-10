@@ -2,7 +2,11 @@
 
 ![profile](https://user-images.githubusercontent.com/68587360/153362622-e6d2aed4-fe36-4609-a763-94f8dd53686f.gif)
 
-<img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Textpattern&logoColor=white&link=https://iamjm29.tistory.com/"/> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:iamjm29@gmail.com"/> <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=Notion&logoColor=white"/>
+<a href="https://iamjm29.tistory.com/">
+  <img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Textpattern&logoColor=white&link=https://iamjm29.tistory.com/"/>
+</a> <a href="mailto:iamjm29@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:iamjm29@gmail.com"/>
+</a> <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=Notion&logoColor=white"/>
 
 ---
   
