@@ -1,6 +1,6 @@
 <div align="center">
 
-![profile](https://user-images.githubusercontent.com/68587360/153362622-e6d2aed4-fe36-4609-a763-94f8dd53686f.gif)
+![기타](https://user-images.githubusercontent.com/68587360/155280882-018a0f78-f444-4164-bdfb-7abe705cb841.gif)
 
 <a href="https://iamjm29.tistory.com/">
   <img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Textpattern&logoColor=white&link=https://iamjm29.tistory.com/"/>
