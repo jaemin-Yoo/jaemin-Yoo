@@ -6,6 +6,9 @@
 ### 📚 Tech Blog
 <a href="https://iamjm29.tistory.com/">
   <img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Textpattern&logoColor=white&link=https://iamjm29.tistory.com/"/>
+
+<a href="https://velog.io/@iamjm29">
+  <img src="https://img.shields.io/badge/velog-20C997?style=flat&logo=velog&logoColor=white&link=https://velog.io/@iamjm29"/>
   
 ### 🛠 Tech Stack
 
